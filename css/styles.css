@@ -1,0 +1,110 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+.body{
+  background-color: #EEEEEE;
+}
+.imagen{
+  width: 370px;
+  height: 294px;
+  top: 274px;
+  left: 215px;
+}
+.parrafo{ 
+  width: 700;
+  size: 18px;
+  line-height: 36px;
+}
+.ul li a{
+  background-color: darkblue;
+  color: salmon; 
+}
+.body{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+.body{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+.ul li a:hover{
+background-color: yellow;
+}
+h3{
+  background-color:#EEEEEE;
+  color: black;
+  width: 222px;
+  height: 36px;
+  top:58px;
+  left: 239p
+}
+
+.header{
+  background-color:#FFFFFF;
+  width: 100%;
+  height: 100px;
+}
+
+.youtube{
+  background-color: teal;
+  color: black;
+  padding: 5px;
+  text-transform: uppercase;
+  border: 2px solid greenyellow;
+  cursor: pointer;
+}
+.youtube:hover{
+    background-color: yellow;
+    }
+.apps{
+  background-color: teal;
+  color: aqua;
+  padding: 5px;
+  text-transform: uppercase;
+  border: 2px solid greenyellow;
+  cursor: pointer;
+}
+.apps:hover{
+  background-color: yellow;
+    }
+.marketing{
+  background-color: teal;
+  color: aqua;
+  padding: 5px;
+  text-transform: uppercase;
+  border: 2px solid greenyellow;
+  cursor: pointer;
+    }  
+.marketing:hover {
+      background-color: yellow; 
+    }
+.instagram{
+   background-color: teal;
+  color: aqua;
+  padding: 5px;
+  text-transform: uppercase;
+  border: 2px solid greenyellow;  
+  cursor: pointer; 
+    }  
+.instagram:hover {
+      background-color: yellow; 
+    }  
+.footer {
+  background-color:#2F303A;
+  color: blue;
+  width: 1600PX;
+  height: 252PX;
+  top: 1628PX;
+}
+.h4{
+  background-color: #FFFFFF;
+  color: black;
+  width: 150px;
+  height: 20px;
+  top: 1703px;
+  font-weight: 700;
+  size: 14px;
+  line-height: 16.41px;
+}
